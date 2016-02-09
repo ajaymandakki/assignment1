@@ -1,1 +1,26 @@
-
+p.speech
+{
+	margin-top: 50px;
+	margin-left: 200px;
+	position: relative;
+	width: 180px;
+	height: 120px;
+	text-align: center;
+	line-height: 100px;
+	background-color: #fff;
+	border: 8px solid #666;
+	border-radius: 30px;
+	box-shadow: 2px 2px 4px #888;
+	border-color: lightblue;
+	background-color: lightblue;
+}
+#triangle{
+	float-top: left;
+	margin-left: 160px;
+	margin-top: -125px;
+	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-right: 50px solid lightblue;
+	border-bottom: 25px solid transparent;
+}
